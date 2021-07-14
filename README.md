@@ -1,4 +1,4 @@
-# 3d-pwa
+# 3D-PWA
 
 This project includes a PWA with two self-contained graphics pipelines.
 ## Project setup
